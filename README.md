@@ -1,5 +1,5 @@
 ### Hi there, I'm Maya 👋
-- 👀 I’m interested in web development and web ui design
+- 👀 I’m interested in web development and web ux/ui design
 
   
 <!--
