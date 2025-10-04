@@ -39,7 +39,7 @@
 ---
 ## :mailbox_with_mail: Let's Connect
 <p align="center">
-  <a href="https://t.me/mayadev"><img src="https://img.shields.io/badge/Telegram-FF8C42?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/MayaMakeeva"><img src="https://img.shields.io/badge/Telegram-FF8C42?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mayadev"><img src="https://img.shields.io/badge/LinkedIn-FFB6B9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mayadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF8C42?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
