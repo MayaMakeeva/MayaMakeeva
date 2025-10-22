@@ -13,7 +13,7 @@
 - :art: Focus on **UX/UI** design and front-end testing
 - :bulb: I enjoy combining design thinking with engineering precision
 - :rocket: Exploring **HTML, CSS, JavaScript, React, Figma, Selenium**
-- :tulip: Believe that **every pixel and every test** should have a purpose
+- :tulip: I believe that **every pixel and every test** should have a purpose
 ---
 ## :hammer_and_spanner: My Tools & Technologies
 <div align="center">
